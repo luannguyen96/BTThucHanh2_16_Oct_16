@@ -8,6 +8,8 @@ muốn tải file xuống thì chọn clone > download file zip
 
 
 .
+nhớ đặt thuộc tính display = none vào trong thẻ div tên mình nhé, để khi chạy file js thì file js sẽ show ra sau
+
 
 khi sửa nhớ chú ý các biến dùng chung trong file css : img, p , h1,...
 thì nhớ thêm thẻ phía trước nó để tránh đụnng độ với các css của người khác nhé
